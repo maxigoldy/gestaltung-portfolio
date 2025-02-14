@@ -1,0 +1,8 @@
+Version: v.0.5
+
+- added Impressum
+- added Quellenseite
+- reembeded Links to all pages
+- redone Menu
+- added Impress to Footer
+- removed portfolio folderstructure loked by admin

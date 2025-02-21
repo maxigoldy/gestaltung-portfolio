@@ -1,4 +1,2 @@
-v0.8.3
-- fixed wrong picture hover at fotosafari
-- added storyboard hover
-- fixed impress addresses
+v0.9.1
+- fixed wrong image details fotosafari
